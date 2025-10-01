@@ -265,8 +265,8 @@ main {
     /* border: 2px solid #333; */
     padding: 10px 15px;
     font-size: 14px;
-    font-weight: medium;
-    text-transform: capitalize;
+    font-weight: bold;
+    text-transform: uppercase;
     border-radius: 3px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
